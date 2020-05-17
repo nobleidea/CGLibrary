@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CGLibrary_Example' do
+  pod 'CGLibrary', :path => '../'
+
+  target 'CGLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
