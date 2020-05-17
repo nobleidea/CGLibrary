@@ -1,0 +1,16 @@
+PODS:
+  - CGLibrary (0.1.0)
+
+DEPENDENCIES:
+  - CGLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  CGLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGLibrary: 56af24a75979b1cd703d50caf93c165eff5b77ee
+
+PODFILE CHECKSUM: aa4935f197ea506de1b37a1afac553354e3361ad
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module CGLibrary {
+  umbrella header "CGLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

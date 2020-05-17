@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CGLibrary
 
 class ViewController: UIViewController {
 
